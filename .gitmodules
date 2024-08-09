@@ -1,0 +1,6 @@
+[submodule "back-end-cinema-hub"]
+	path = back-end-cinema-hub
+	url = https://github.com/shamex111/back-end-cinema-hub.git
+[submodule "front-end-cinema-hub"]
+	path = front-end-cinema-hub
+	url = https://github.com/shamex111/front-end-cinema-hub.git
